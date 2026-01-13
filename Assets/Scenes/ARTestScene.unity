@@ -592,7 +592,7 @@ MonoBehaviour:
   <trackablesChanged>k__BackingField:
     m_PersistentCalls:
       m_Calls: []
-  m_PlanePrefab: {fileID: 0}
+  m_PlanePrefab: {fileID: 1585201990951412, guid: 886609fc1566e4c27b399f1095d6de18, type: 3}
   m_DetectionMode: -1
 --- !u!114 &2104223459
 MonoBehaviour:
@@ -671,7 +671,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   raycastManager: {fileID: 2104223457}
   planeManager: {fileID: 2104223458}
-  anchorManager: {fileID: 2104223462}
+  anchorManager: {fileID: 0}
   placeablePrefab: {fileID: 779348969658812448, guid: c6bdbc1f1eacb694ab7290323f7cf037, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
