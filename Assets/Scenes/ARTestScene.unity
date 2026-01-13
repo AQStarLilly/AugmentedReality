@@ -671,7 +671,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   raycastManager: {fileID: 2104223457}
   planeManager: {fileID: 2104223458}
-  anchorManager: {fileID: 0}
+  anchorManager: {fileID: 2104223462}
   placeablePrefab: {fileID: 779348969658812448, guid: c6bdbc1f1eacb694ab7290323f7cf037, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
